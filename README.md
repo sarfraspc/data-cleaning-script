@@ -13,11 +13,12 @@ This project automates the **cleaning and deduplication of CSV data** using a **
 
 ---
 
-## 📌 **Steps to Run the Code**
+## 📌 Steps to Run the Code
+
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/sarfraspc/data-cleaning-script.git
+cd data-cleaning-script
 ```
 
 ### **2️⃣ Install Dependencies**
