@@ -1,0 +1,6 @@
+id,name,email,city,purchase_amount,date
+1,John Doe,john@gmail.com,New York,50.25,2023-01-01
+2,Jane Smith,jane.smith@yahoo.com,Los Angeles,NULL,2023-01-02
+3,Bob Wilson,bob@gmail.com,Chicago,30.00,2023-01-03
+5,Alice Brown,alice@outlook.com,Miami,100.00,2023-01-05
+7,Tom Hardy,tom@yahoo.com,Seattle,75.50,2023-01-07
